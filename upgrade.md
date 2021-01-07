@@ -2,6 +2,8 @@
 
 We push updates to this package frequently.
 
+!> Currently there is no major update.
+
 Breaking Changes will be published in major updates.
 
 Our package versioning follows [Semver](https://semver.org/) versioning
