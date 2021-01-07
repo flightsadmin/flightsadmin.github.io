@@ -1,4 +1,4 @@
-# Introduction
+# Laravel Livewire-crud Generator
 
 A livewire CRUD Generation package to help scaffold basic site files. 
 
